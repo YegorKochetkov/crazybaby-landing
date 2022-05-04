@@ -5,4 +5,4 @@ Implement landing page according to [Figma design](https://www.figma.com/file/Uj
 - Tablet 768px
 - Mobile (> 320px)
 
-- [DEMO LINK](https://yegorkochetkov.github.io/kickstarter-landing/)
+- [DEMO LINK](https://yegorkochetkov.github.io/crazybaby-landing/)
